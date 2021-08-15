@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nayan Agrawal.
+- 👋 Hi, I’m Nayan.
 - 👀 I’m a Machine learning enthusiast and has a keen interest in developing ecommerce websites.
 - 🌱 I’m currently working on cpp and learning about Cyber security and Administration.
 - 📫 How to reach me- nayanchat2000@gmail.com & nayan-agrawal.web.app
