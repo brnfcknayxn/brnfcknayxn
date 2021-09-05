@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Nayan.
-- 👀 I’m a Machine learning enthusiast and has a keen interest in developing ecommerce websites.
-- 🌱 I’m currently learning cpp along with working on Network Administration.
+- 👀 I’m a Machine learning enthusiast and an ecommerce website developer.
+- 🌱 I’m currently learning C++ along with working on Network Administration.
+- 🌱 I already have a descent command on Python, MySQL, HTML and CSS.
 - 📫 How to reach me- nayanchat2000@gmail.com & https://nayan-agrawal.web.app
 <!---
 brnfcknayxn/brnfcknayxn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
