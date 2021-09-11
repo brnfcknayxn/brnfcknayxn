@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nayan
 - 👀 I’m a Machine learning enthusiast and an ecommerce website developer
 - 🌱 I’m currently learning C++ along with working in Network Administration
-- 🌱 I already have descent command on Python, MySQL, HTML and CSS
+- 🌱 I have good command on Python, MySQL, HTML and CSS
 - 📫 How to reach me- nayanchat2000@gmail.com / nayan99agrawal@outlook.com
 - 📫 Portfolio: https://nayan-agrawal.web.app
 - 📫 Non-profitable website: https://shelfheist.web.app
