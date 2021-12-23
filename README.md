@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nayan
 - 👀 I’m a Machine learning enthusiast and an ecommerce website developer
-- 🌱 I’m currently learning C++ along with working in Network Administration
+- 🌱 I’m currently working on a data science project along with learning Network Administration
 - 🌱 I have good command on Python, MySQL, HTML and CSS
 - 📫 How to reach me- nayanchat2000@gmail.com / nayan99agrawal@outlook.com
 - 📫 Portfolio: https://nayan-agrawal.web.app
